@@ -9,5 +9,5 @@
 - Architectural Design Pattern: MVVM
 - Dependency Injection to resolve data fetcher dependencies.
 - NavigationStack is used which requires minimum version: iOS 16.
-- Documentation into the codebase is added (where possibily needed).
+- Required documentation is added into the codebase.
 
