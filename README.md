@@ -1,1 +1,1 @@
-# browse-recipes-meals
+# browse-recipes
