@@ -7,7 +7,7 @@
 
 import Foundation
 
-/// `RequestMaker` implements request maker blue prints and contains helper methods for sending network request.
+/// `RequestSender` implements request maker blue prints and contains helper methods for sending network request.
 public class RequestSender: RequestSending {
     private let urlSession: URLSession
     
